@@ -2,8 +2,8 @@
 2026학년도 2학기 웹 서버를 이용한 센서 제어
 
 ## 팀원
-- student1 :
-- student2 :
+- student1 : 강승곤
+- student2 : 김도진
 
 ## 개발 환경 준비
 1. git clone 후 폴더로 이동
